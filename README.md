@@ -1,4 +1,4 @@
-# moreGIS
+# more GIS tools
 Combining Spatial Data in ArcMap
   (based on blog Post by lenhardt.julia 2014)
 
